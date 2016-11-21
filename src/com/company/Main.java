@@ -17,5 +17,7 @@ public class Main {
         frm2.setSize(1000,400);
         frm2.setVisible(true);
         frm2.init();
+
+        
     }
 }

@@ -13,7 +13,11 @@
           <root url="file://$MODULE_DIR$/libs" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/libs/comm-2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/comm-2.0.jar!/com" />
+          <root url="jar://$MODULE_DIR$/libs/comm-2.0.jar!/" />
+        </SOURCES>
         <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
       </library>
     </orderEntry>
